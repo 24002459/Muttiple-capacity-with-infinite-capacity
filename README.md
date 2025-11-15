@@ -59,5 +59,4 @@ print("--------------------------------------------------------------")
 <img width="936" height="393" alt="image" src="https://github.com/user-attachments/assets/bafa4620-cb7f-414d-b264-c016edafa9a4" />
 
 ## Result : 
-Thus,found the(a) average number of materials in the system (b) average number of materials in the conveyor (c) waiting time of each material in the system (d) waiting time of each material in the conveyor, if the arrival  of materials follow poisson process with the mean interval time 10 seconds, serivice time of two lathe machine follow exponential distribution with mean serice time 1 second and average service time of robot is 7seconds.
-
+Thus, the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully.
